@@ -1,0 +1,60 @@
+{
+  "term": "Fall",
+  "year": "2011",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Macroeconomics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "International Economics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Industrial Organization"
+    ],
+    [
+      "Business",
+      "Finance"
+    ]
+  ],
+  "legacy_uid": "0581c669-2732-0c62-a73b-59877ee22bb6",
+  "instructors": {
+    "content": [
+      "6640ead3-134a-1601-089e-a8ae3e5a604e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "833be7e9-ced7-4413-d6ec-79479099fab1",
+    "website": "15-015-macro-and-international-economics-fall-2011"
+  },
+  "course_title": "Macro and International Economics",
+  "course_description": "_15.015 Macro and International Economics_ focuses on the policy and economic environment of firms. This subject divided in three parts. The first part of the course is a study of the closed economy and how monetary and fiscal policy interacts with employment, GNP, inflation, and interest rates. Next, the course provides an examination of national economic strategies for development and growth and recent financial and currency crises in emerging markets. Finally, the course addresses the problems faced by transition economies and the role of institutions both as the engine of growth, and as the constraints for policy.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.015",
+  "course_image_thumbnail": {
+    "content": "3b65deed-c87b-a174-a248-a0bf2ad902c4",
+    "website": "15-015-macro-and-international-economics-fall-2011"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects",
+    "Exams",
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "0ccfae80-67fa-4079-bd41-0629fd640aa3",
+  "site_short_id": "15.015-fall-2011",
+  "site_url_path": "courses/15-015-macro-and-international-economics-fall-2011",
+  "title": "Course Metadata"
+}
