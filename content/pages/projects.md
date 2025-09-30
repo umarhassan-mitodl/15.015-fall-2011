@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides instructions, guidelines, and suggestions for the
   group project of the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
