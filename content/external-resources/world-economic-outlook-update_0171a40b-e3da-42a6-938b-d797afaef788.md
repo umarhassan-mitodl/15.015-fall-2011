@@ -2,8 +2,6 @@
 content_type: external-resource
 external_url: http://www.imf.org/external/pubs/ft/weo/2011/update/02/index.htm
 has_external_license_warning: true
-hide_download: true
-hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: check_failed
 title: World Economic Outlook Update
